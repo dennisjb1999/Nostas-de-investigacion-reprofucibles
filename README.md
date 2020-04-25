@@ -1,4 +1,4 @@
-# Nostas-de-investigacion-reproducibles
+# Nostas sobre investigacion reproducible y analisis de datos
 # Reproductibilidad
 
 El termino __reproductibilidad__ (o _reproducibility_, en ingles) se refier a la capacidad de reproducir un trabajo de investigacion de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodologia .
