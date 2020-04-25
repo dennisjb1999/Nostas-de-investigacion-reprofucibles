@@ -15,5 +15,5 @@ Usualmente, la reproductibilidad requiere que los datos y el codigo de programac
 
 Con el fin e resolver esta problematica, diferentes organizaciones, como el Comite Internacional de Publicaciones de Medicina o la Administacion de Alimentos y Medicamentos de Estados Unidos[FDA]( https://www.fda.gov/), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentacion de los experimentos basados en ensayos aleatorios. De manera simultanea, se ledio mas importancia a la calidad de los datos utilizados en las investigaciones.
 Asi, por ejemplos, como se muestra en la figura 1, Mark Ziemannencontro en 2016 que un 20% de los articulos con archivos de datos suplementarios publicados en revistas cientificas contenian errores en los nombres de los genes, debido a los paramentros de configuracion de Microsoft Excel(Ziemann et al,.2016)
-![]( ZiemannEtAlFig1.png)
+![](ZiemannEtAlFig1.png)
 Figura 1. Resultados de la revision sistematica de archivos Excel suplementarios. Fuente:(Ziemann et al.,2016)
