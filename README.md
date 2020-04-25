@@ -13,7 +13,7 @@ Usualmente, la reproductibilidad requiere que los datos y el codigo de programac
 > propios resultados. Por esta razon, muchas personas ignoran la mayor parte de la literatura cientifica."(Claerbout,
 > 1992)
 
-Con el fin e resolver esta problematica, diferentes organizaciones, como el Comite Internacional de Publicaciones de Medicina o la Administacion de Alimentos y Medicamentos de Estados Unidos[FDA]( https://www.fda.gov/), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentacion de los experimentos basados en ensayos aleatorios. De manera simultanea, se ledio mas importancia a la calidad de los datos utilizados en las investigaciones.
+Con el fin e resolver esta problematica, diferentes organizaciones, como el Comite Internacional de Publicaciones de Medicina o la Administacion de Alimentos y Medicamentos de Estados Unidos [(FDA)]( https://www.fda.gov/), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentacion de los experimentos basados en ensayos aleatorios. De manera simultanea, se ledio mas importancia a la calidad de los datos utilizados en las investigaciones.
 Asi, por ejemplos, como se muestra en la figura 1, Mark Ziemannencontro en 2016 que un 20% de los articulos con archivos de datos suplementarios publicados en revistas cientificas contenian errores en los nombres de los genes, debido a los paramentros de configuracion de Microsoft Excel(Ziemann et al.,2016)
 
 ![](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/ZiemannEtAlFig1.png)
