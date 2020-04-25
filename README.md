@@ -1,4 +1,4 @@
-# Nostas sobre investigacion reproducible y analisis de datos
+# Notas sobre investigacion reproducible y analisis de datos
 # Reproductibilidad
 
 El termino __reproductibilidad__ (o _reproducibility_, en ingles) se refier a la capacidad de reproducir un trabajo de investigacion de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodologia .
@@ -19,3 +19,9 @@ Asi, por ejemplos, como se muestra en la figura 1, Mark Ziemannencontro en 2016 
 ![](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/ZiemannEtAlFig1.png)
 
 Figura 1. Resultados de la revision sistematica de archivos Excel suplementarios. Fuente:(Ziemann et al.,2016)
+
+#Bibliografia
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görö, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K.,
+Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verkabet, E., Brinket, H., & Helle, L.(2018). Open Science Training Handbook. Zenodo. http://doi.org/10.5281/ZENODO.1212496
+Claerbout, J.F.(1992). Earth Soundings Analysis: Processing Versus Inversion, Blackwell Science Inc.
+Ziemann, M., Eren, Y.,& El-Osta, A. (2016). Gene name errors are widespread in the scientific literatre. Genome Biology, 17(1), 177. https://doi.org/10.1186/s13059-0161044-7
