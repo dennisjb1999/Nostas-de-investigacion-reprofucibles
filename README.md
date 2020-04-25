@@ -20,7 +20,7 @@ Asi, por ejemplos, como se muestra en la figura 1, Mark Ziemannencontro en 2016 
 
 Figura 1. Resultados de la revision sistematica de archivos Excel suplementarios. Fuente:(Ziemann et al.,2016)
 
-#Bibliografia
+# Bibliografia
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görö, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K.,
 Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verkabet, E., Brinket, H., & Helle, L.(2018). Open Science Training Handbook. Zenodo. http://doi.org/10.5281/ZENODO.1212496
 Claerbout, J.F.(1992). Earth Soundings Analysis: Processing Versus Inversion, Blackwell Science Inc.
